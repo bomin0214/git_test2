@@ -45,3 +45,8 @@ bin/
 .settings/
 .classpath
 .projec
+
+bin/
+.settings/
+.classpath
+.project
